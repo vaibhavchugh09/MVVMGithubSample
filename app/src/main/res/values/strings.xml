@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVMGithubSample</string>
+    <string name="facebook">facebook</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_for_facebook"><u>Sign Up for Facebook</u></string>
+    <string name="email_or_phone">Email or Phone</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
